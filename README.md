@@ -68,8 +68,5 @@ Implement rate limiting to prevent brute-force attacks.
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
 ## Support
 If you encounter any problems or have any questions, please open an issue in the GitHub repository.
